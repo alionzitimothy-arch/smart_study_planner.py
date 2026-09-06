@@ -1,6 +1,5 @@
 # Smart Study Planner
-# Individual Project Coursework
-#
+
 # This program allows a student to:
 # - Add study sessions
 # - View all study sessions
